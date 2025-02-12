@@ -17,6 +17,10 @@ python -m venv venv
 source venv/bin/activate
 pip install openai
 pip install python-dotenv
+pip install jinja2 typeguard
+pip install tiktoken
+pip install -U langchain-community
+pip install langchain openai faiss-cpu  # FAISSを使う場合
 ```
 
 # run

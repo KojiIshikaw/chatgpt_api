@@ -1,0 +1,96 @@
+# Go2 Product Specifications
+
+## About Go2
+**Last Updated On:** 2025-02-11 12:29:18
+
+## Go2 Product List
+
+| Mode | AIR | PRO | EDU |
+|---|---|---|---|
+| **Rendered Image** | | | |
+
+## Mechanical Specifications
+
+| Parameter | AIR | PRO | EDU |
+|---|---|---|---|
+| **Dimension (Standing)** | 70cm x 31cm x 40cm | 70cm x 31cm x 40cm | 70cm x 31cm x 40cm |
+| **Dimension (Crouching)** | 76cm x 31cm x 20cm | 76cm x 31cm x 20cm | 76cm x 31cm x 20cm |
+| **Weight (With Battery)** | About 15kg | About 15kg | About 15kg |
+| **Material** | Aluminium alloy + High strength engineering plastic | Aluminium alloy + High strength engineering plastic | Aluminium alloy + High strength engineering plastic |
+
+## Electronic Parameters
+
+| Parameter | AIR | PRO | EDU |
+|---|---|---|---|
+| **Voltage** | 28V~33.6V | 28V~33.6V | 28V~33.6V |
+| **Working Maximum Power** | About 3000W | About 3000W | About 3000W |
+
+## Performance Parameters
+
+| Parameter | AIR | PRO | EDU |
+|---|---|---|---|
+| **Payload** | ≈7kg (MAX~10kg) | ≈8kg (MAX~10kg) | ≈8kg (MAX~12kg) |
+| **Speed** | 0~2.5m/s | 0~3.5m/s | 0~3.7m/s (MAX~5m/s) |
+| **Max Climb Drop Height** | About 15cm | About 16cm | About 16cm |
+| **Max Climb Angle** | 30° | 40° | 40° |
+| **Basic Computing Power** | - | 8-core High-performance CPU | 8-core High-performance CPU |
+
+## Knee Joint Parameters
+
+| Parameter | AIR | PRO | EDU |
+|---|---|---|---|
+| **Max Joint Torque** | - | About 45N.m | About 45N.m |
+| **Aluminum Knee Joint Motor** | 12 set | 12 set | 12 set |
+| **Range of Motion** | body: -48~48°<br>thigh: -200°~90°<br>shank: -156°~-48° | body: -48~48°<br>thigh: -200°~90°<br>shank: -156°~-48° | body: -48~48°<br>thigh: -200°~90°<br>shank: -156°~-48° |
+| **Intra-joint Circuit (Knee)** | ✓ | ✓ | ✓ |
+| **Joint Heat Pipe Cooler** | ✓ | ✓ | ✓ |
+
+## Force Sensor Parameters
+
+| Parameter | AIR | PRO | EDU |
+|---|---|---|---|
+| **Super-wide-angle 3D LIDAR** | ✓ | ✓ | ✓ |
+| **Wireless Vector Positioning Tracking Module** | - | ✓ | ✓ |
+| **HD Wide-angle Camera** | ✓ | ✓ | ✓ |
+| **Foot-end Force Sensor** | - | - | ✓ |
+
+## Feature List
+
+| Feature | AIR | PRO | EDU |
+|---|---|---|---|
+| **Basic Action** | ✓ | ✓ | ✓ |
+| **Auto-scaling Strap** | - | ✓ | - |
+| **Upgraded Intelligent OTA** | ✓ | ✓ | ✓ |
+| **RTT 2.0 Pictures Transaction** | ✓ | ✓ | ✓ |
+| **Graphical Programming** | ✓ | ✓ | ✓ |
+| **Front Lamp (3W)** | ✓ | ✓ | ✓ |
+| **WiFi6 with Dual-band** | ✓ | ✓ | ✓ |
+| **Bluetooth 5.2/4.2/2.1** | ✓ | ✓ | ✓ |
+| **4G Module** | - | ✓ | ✓ |
+| **Voice Function** | - | ✓ | ✓ |
+| **ISS 2.0 Intelligent Side-follow System** | - | ✓ | ✓ |
+| **Intelligent Detection and Avoidance** | ✓ | ✓ | ✓ |
+| **Charging Pile Compatibility** | - | ✓ | ✓ |
+| **Secondary Development** | - | - | ✓ |
+
+## Accessories
+
+| Accessory | AIR | PRO | EDU |
+|---|---|---|---|
+| **Manual Controller** | Optional | Optional | ✓ |
+| **High Computing Power Module** | - | - | NVIDIA Jetson Orin (Optional, 40-100Tops Computing Power) |
+| **Smart Battery** | Standard (8000mAh)x1 | Standard (8000mAh)x1 | Long Endurance (15000mAh)x1 |
+| **Battery Life** | About 1-2h | About 1-2h | About 2-4h |
+| **Charger** | Standard (33.6V 3.5A) | Standard (33.6V 3.5A) | Fast Charge (33.6V 9A) |
+| **Warranty Period** | 6 months | 12 months | 12 months |
+
+---
+### Additional Notes
+1. The maximum torque in the table refers to the maximum torque of the largest joint motor; actual maximum torque varies for the 12 joint motors.
+2. Some features require human operation or secondary development.
+3. The 4G function of non-Chinese mainland versions supports only 43 European countries (except Ukraine) and some Asian regions.
+4. Please visit the **Unitree Robotics Website** for related terms, policies, and compliance with local laws and regulations.
+
+---
+This document provides a structured and organized format for the Go2 Product List and specifications, ensuring clarity and readability.
+
